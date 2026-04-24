@@ -54,19 +54,6 @@ I have contributed as a lead programmer on **award-winning projects** showcased 
   
 ---
 
-### 🛠 Home Town Store (Freelance)
-
-![Data Integration](docs/pipeline.png)
-
-**Role:** Freelance Unity Developer  
-**Tech:** Unity, C#, Excel / Google Sheets  
-
-- Worked with an existing **spreadsheet → Unity data pipeline**  
-- Imported and structured game data (dialogue, balancing values) into Unity  
-- Integrated data into gameplay systems and ensured compatibility with existing codebase  
-
----
-
 ## Technical Highlights
 
 - Gameplay Systems: Inventory, Dialogue, AI  
