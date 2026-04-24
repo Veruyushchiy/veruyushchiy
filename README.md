@@ -56,7 +56,7 @@ I have contributed as a lead programmer on **award-winning projects** showcased 
 
 ### 🛠 Home Town Store (Freelance)
 
-![Data Integration](docs/pipeline.png)
+![Data Integration](docs/pipeline.jpg)
 
 **Role:** Freelance Unity Developer  
 **Tech:** Unity, C#, Excel / Google Sheets  
