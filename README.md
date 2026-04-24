@@ -1,81 +1,87 @@
-# Project Name
+# Sahachoke Khwanchit (Few)
+### Unity Game Developer | Systems & Gameplay
 
-A short one-line description of the project.
+Unity developer specializing in **C# and system-driven gameplay development**, with experience building scalable systems such as **AI behaviors, inventory, dialogue frameworks, and data pipelines**.
 
-Example:
-A modular Unity gameplay system focused on inventory management, item data, and scalable game architecture.
-
----
-
-## Overview
-
-This project was developed as a Unity/C# system showcase for game development portfolio purposes.
-
-It demonstrates:
-- Clean Unity project structure
-- Object-oriented programming
-- Scalable gameplay system design
-- Data-driven workflow
-- Maintainable C# code
+I have contributed as a lead programmer on **award-winning projects** showcased at national and international events, and have experience working within production codebases, integrating data workflows, and solving technical challenges.
 
 ---
 
-## Project Links
+## Portfolio
 
-- **Portfolio:** [Your Portfolio Link Here](https://your-link-here.com)
-- **Gameplay Demo / Video:** [Demo Video Link Here](https://your-link-here.com)
-- **Itch.io / Steam Page:** [Game Page Link Here](https://your-link-here.com)
-- **Contact:** your.email@example.com
+🌐 **Full Portfolio:** https://philosophier.wixsite.com/home
+📧 **Email:** sahachoke.khwa@gmail.com  
 
 ---
 
-## Features
-
-- Modular inventory system
-- Item data using ScriptableObjects
-- Stackable and non-stackable item support
-- Item pickup and item usage workflow
-- UI-ready structure for inventory display
-- Designed for expansion into crafting, equipment, and save/load systems
+## Selected Projects
 
 ---
 
-## Technologies Used
+### 🎮 The Quarantine (Main Project)
 
-- Unity
-- C#
-- ScriptableObjects
-- Git / GitHub
-- JetBrains Rider
+![The Quarantine](docs/quarantine.png)
+
+**Role:** Project Coordinator / Programmer  
+**Tech:** Unity, C#, Spine 2D  
+
+- Designed and implemented core systems:
+  - Inventory system  
+  - Dialogue (VN-style) system  
+  - AI behaviors (A* pathfinding)  
+- Built modular system architecture for scalable development  
+- Integrated Spine 2D animation into gameplay pipeline  
+- Collaborated with cross-functional team to debug and refine gameplay  
+
+🏆 Awards:
+- Best Visual — Thailand Game Talent Showcase (2024)  
+- Best of Pitching — BU Game On! Expo (2024)  
+- Rising Star — BU Game On!  
 
 ---
 
-## My Role
+### 🧠 GOAP AI Research Project
 
-**Role:** Unity Developer / Gameplay Programmer
+![GOAP System](docs/goap.png)
 
-Responsibilities:
-- Designed the system architecture
-- Implemented core gameplay logic
-- Organized code for scalability and readability
-- Tested system behavior inside Unity
-- Documented usage and setup instructions
+**Role:** Developer / Researcher  
+**Tech:** Unity, C#, GOAP AI  
+
+- Developed AI system using **Goal-Oriented Action Planning (GOAP)**  
+- Implemented layered decision-making based on agent needs  
+- Designed system to simulate dynamic and adaptive NPC behavior  
+- Focused on scalable AI architecture for simulation-based gameplay
+  
+---
+
+### 🛠 Home Town Store (Freelance)
+
+![Data Integration](docs/pipeline.png)
+
+**Role:** Freelance Unity Developer  
+**Tech:** Unity, C#, Excel / Google Sheets  
+
+- Worked with an existing **spreadsheet → Unity data pipeline**  
+- Imported and structured game data (dialogue, balancing values) into Unity  
+- Integrated data into gameplay systems and ensured compatibility with existing codebase  
 
 ---
 
-## System Design
+## Technical Highlights
 
-The system is separated into several responsibilities:
+- Gameplay Systems: Inventory, Dialogue, AI  
+- AI: A* Pathfinding, GOAP (research-based)  
+- Data Workflow: Spreadsheet → Unity pipeline  
+- Programming: C#, OOP, scalable architecture  
+- Tools: GitHub, JetBrains Rider, Spine 2D  
 
-```text
-ItemSO
- └── Stores static item data
+---
 
-InventoryItem
- └── Stores runtime item quantity and state
+## About Me
 
-InventoryManager
- └── Handles adding, removing, and checking items
+- 🎓 Game & Interactive Media — Bangkok University (GPA 3.90)  
+- 🌍 Experience working in international teams (Japan internship)  
+- 🎤 Speaker & presenter in game development events  
+- 🎮 Passionate about building scalable and maintainable game systems  
 
-InventoryUI
- └── Displays inventory data to the player
+---
