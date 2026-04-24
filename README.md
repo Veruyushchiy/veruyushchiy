@@ -66,7 +66,7 @@ I have contributed as a lead programmer on **award-winning projects** showcased 
 
 ## About Me
 
-- 🎓 Game & Interactive Media — Bangkok University (GPA 3.90)  
+- 🎓 Game & Interactive Media — Bangkok University
 - 🌍 Experience working in international teams (Japan internship)  
 - 🎤 Speaker & presenter in game development events  
 - 🎮 Passionate about building scalable and maintainable game systems  
